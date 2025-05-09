@@ -1,0 +1,46 @@
+[
+  {
+    "asset_name": "ETH",
+    "risk_level": "MEDIUM",
+    "notification_type": "Positive Development Reported",
+    "reason": "Positive ecosystem developments (Pectra Upgrade, DeFi scaling) and price surge (+20%) indicate restored confidence, though short-term volatility post-upgrade remains a risk.",
+    "source": [
+      "https://cryptopanic.com/news/21684537/Ethereum-Surges-20-After-Pectra-Upgrade?mtm_campaign=API-OFA",
+      "https://cryptopanic.com/news/21683413/Scaling-Ethereums-DeFi-App-Scene-with-Singletons?mtm_campaign=API-OFA",
+      "https://cryptopanic.com/news/21670736/ETH-Surges-20-Biggest-Gain-Since-2021-as-Pectra-Upgrade-Helps-Restore-Confidence?mtm_campaign=API-OFA"
+    ],
+    "priority": 7
+  },
+  {
+    "asset_name": "USDC",
+    "risk_level": "LOW",
+    "notification_type": "Positive Development Reported",
+    "reason": "Positive mentions of USDC as a preferred stablecoin option by Coinbase CEO, alongside Stripe's stablecoin account launch, indicate stability and growing adoption, despite Coinbase's underperforming earnings.",
+    "source": [
+      "https://cryptopanic.com/news/21672890/Coinbase-CEO-Brian-Armstrong-Believes-Traditional-Banks-Launching-Own-Stablecoins-Not-Necessarily-The-Best-Path-Pitches-USDC-As-Option?mtm_campaign=API-OFA",
+      "https://cryptopanic.com/news/21673950/Stripe-Launches-Stablecoin-Accounts-Available-to-Businesses-in-101-Countries?mtm_campaign=API-OFA"
+    ],
+    "priority": 3
+  },
+  {
+    "asset_name": "USDT",
+    "risk_level": "LOW",
+    "notification_type": "Positive Development Reported",
+    "reason": "Positive impact of USDT0 rollout on Flare Network (160% TVL surge) with no negative reports, indicating stable integration and growth potential.",
+    "source": [
+      "https://cryptopanic.com/news/21644580/Flare-Networks-total-value-locked-surges-160-since-USDT0-rollout-surpassing-120-million?mtm_campaign=API-OFA"
+    ],
+    "priority": 2
+  },
+  {
+    "asset_name": "PEPE",
+    "risk_level": "HIGH",
+    "notification_type": "Hype Spike",
+    "reason": "Rapid price climb (+43%), 'attention fast' labeling, and comparisons to PEPE's path for other coins signal high hype and potential bubble risk, driven by speculative trading rather than fundamental value.",
+    "source": [
+      "https://cryptopanic.com/news/21691636/From-000001-to-1-These-3-Coins-Are-Gaining-Attention-Fast?mtm_campaign=API-OFA",
+      "https://cryptopanic.com/news/21688201/Pepe-Price-Climbs-43-With-Only-21-Days-Left-to-Buy-MIND-of-Pepe-Cheap-Nearly-9m-Raised?mtm_campaign=API-OFA"
+    ],
+    "priority": 9
+  }
+]

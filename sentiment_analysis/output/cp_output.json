@@ -1,0 +1,119 @@
+[
+  {
+    "asset_name": "ETH",
+    "status": "analyzed",
+    "texts": [
+      {
+        "text": "Ethereum Surges 20% After Pectra Upgrade",
+        "source": "https://cryptopanic.com/news/21684537/Ethereum-Surges-20-After-Pectra-Upgrade?mtm_campaign=API-OFA",
+        "published_at": "2025-05-09T14:15:39"
+      },
+      {
+        "text": "Scaling Ethereum's DeFi App Scene with Singletons",
+        "source": "https://cryptopanic.com/news/21683413/Scaling-Ethereums-DeFi-App-Scene-with-Singletons?mtm_campaign=API-OFA",
+        "published_at": "2025-05-09T13:24:49"
+      },
+      {
+        "text": "Ethereum Surges Double Digits to $2,400 Following Pectra Upgrade",
+        "source": "https://cryptopanic.com/news/21679066/Ethereum-Surges-Double-Digits-to-2400-Following-Pectra-Upgrade?mtm_campaign=API-OFA",
+        "published_at": "2025-05-09T10:25:51"
+      },
+      {
+        "text": "Unichain surpasses Ethereum as top chain for Uniswap v4 by transaction volume",
+        "source": "https://cryptopanic.com/news/21672997/Unichain-surpasses-Ethereum-as-top-chain-for-Uniswap-v4-by-transaction-volume?mtm_campaign=API-OFA",
+        "published_at": "2025-05-09T05:51:14"
+      },
+      {
+        "text": "ETH Surges 20%, Biggest Gain Since 2021 as Pectra Upgrade Helps Restore 'Confidence'",
+        "source": "https://cryptopanic.com/news/21670736/ETH-Surges-20-Biggest-Gain-Since-2021-as-Pectra-Upgrade-Helps-Restore-Confidence?mtm_campaign=API-OFA",
+        "published_at": "2025-05-09T01:51:45"
+      }
+    ]
+  },
+  {
+    "asset_name": "USDC",
+    "status": "analyzed",
+    "texts": [
+      {
+        "text": "Coinbase Revenue Falls Short as Crypto Traders Sit Out Bitcoin Rally",
+        "source": "https://cryptopanic.com/news/21686008/Coinbase-Revenue-Falls-Short-as-Crypto-Traders-Sit-Out-Bitcoin-Rally?mtm_campaign=API-OFA",
+        "published_at": "2025-05-09T15:33:06"
+      },
+      {
+        "text": "Bitcoin Pops Above $103,000 As Standard Chartered Analyst Calls $120,000 Q2 Target \u2018Too Low\u2019",
+        "source": "https://cryptopanic.com/news/21676562/Bitcoin-Pops-Above-103000-As-Standard-Chartered-Analyst-Calls-120000-Q2-Target-Too-Low?mtm_campaign=API-OFA",
+        "published_at": "2025-05-09T08:27:14"
+      },
+      {
+        "text": "Stripe Launches Stablecoin Accounts, Available to Businesses in 101 Countries",
+        "source": "https://cryptopanic.com/news/21673950/Stripe-Launches-Stablecoin-Accounts-Available-to-Businesses-in-101-Countries?mtm_campaign=API-OFA",
+        "published_at": "2025-05-09T06:30:26"
+      },
+      {
+        "text": "Coinbase CEO Brian Armstrong Believes Traditional Banks Launching Own Stablecoins 'Not Necessarily The Best' Path\u2014 Pitches USDC As Option",
+        "source": "https://cryptopanic.com/news/21672890/Coinbase-CEO-Brian-Armstrong-Believes-Traditional-Banks-Launching-Own-Stablecoins-Not-Necessarily-The-Best-Path-Pitches-USDC-As-Option?mtm_campaign=API-OFA",
+        "published_at": "2025-05-09T05:13:30"
+      },
+      {
+        "text": "Coinbase Q1 2025 Earnings Underperform Expectations",
+        "source": "https://cryptopanic.com/news/21669362/Coinbase-Q1-2025-Earnings-Underperform-Expectations?mtm_campaign=API-OFA",
+        "published_at": "2025-05-08T23:34:25"
+      }
+    ]
+  },
+  {
+    "asset_name": "GNO",
+    "status": "no_recent_data",
+    "texts": [],
+    "risk_level": null,
+    "reason": "No qualifying articles found after 2025-05-02T21:41:05.984117",
+    "priority": null
+  },
+  {
+    "asset_name": "USDT",
+    "status": "analyzed",
+    "texts": [
+      {
+        "text": "Flare Network\u2019s total value locked surges 160% since USDT0 rollout, surpassing $120 million",
+        "source": "https://cryptopanic.com/news/21644580/Flare-Networks-total-value-locked-surges-160-since-USDT0-rollout-surpassing-120-million?mtm_campaign=API-OFA",
+        "published_at": "2025-05-08T06:50:20"
+      },
+      {
+        "text": "Can Ethereum (ETH) Outperform Bitcoin (BTC) in 2025?",
+        "source": "https://cryptopanic.com/news/21624840/Can-Ethereum-ETH-Outperform-Bitcoin-BTC-in-2025?mtm_campaign=API-OFA",
+        "published_at": "2025-05-07T13:40:19"
+      }
+    ]
+  },
+  {
+    "asset_name": "PEPE",
+    "status": "analyzed",
+    "texts": [
+      {
+        "text": "From $0.00001 to $1? These 3 Coins Are Gaining Attention Fast",
+        "source": "https://cryptopanic.com/news/21691636/From-000001-to-1-These-3-Coins-Are-Gaining-Attention-Fast?mtm_campaign=API-OFA",
+        "published_at": "2025-05-09T21:25:28"
+      },
+      {
+        "text": "Can These 3 Coins Follow PEPE\u2019s Path? Early Trading Signals Say Yes",
+        "source": "https://cryptopanic.com/news/21691635/Can-These-3-Coins-Follow-PEPEs-Path-Early-Trading-Signals-Say-Yes?mtm_campaign=API-OFA",
+        "published_at": "2025-05-09T21:22:18"
+      },
+      {
+        "text": "Bitcoin, Ethereum, XRP, Dogecoin Enter Weekend Strong: 'Long Dips, $140,000 Is Programmed,' Trader Says",
+        "source": "https://cryptopanic.com/news/21689996/Bitcoin-Ethereum-XRP-Dogecoin-Enter-Weekend-Strong-Long-Dips-140000-Is-Programmed-Trader-Says?mtm_campaign=API-OFA",
+        "published_at": "2025-05-09T19:31:39"
+      },
+      {
+        "text": "Dragoin Has Entered the Chat: Top Trending Meme Coin of 2025 You Can Still Buy Early",
+        "source": "https://cryptopanic.com/news/21689079/Dragoin-Has-Entered-the-Chat-Top-Trending-Meme-Coin-of-2025-You-Can-Still-Buy-Early?mtm_campaign=API-OFA",
+        "published_at": "2025-05-09T18:30:55"
+      },
+      {
+        "text": "Pepe Price Climbs 43% With Only 21 Days Left to Buy MIND of Pepe Cheap, Nearly $9m Raised",
+        "source": "https://cryptopanic.com/news/21688201/Pepe-Price-Climbs-43-With-Only-21-Days-Left-to-Buy-MIND-of-Pepe-Cheap-Nearly-9m-Raised?mtm_campaign=API-OFA",
+        "published_at": "2025-05-09T17:42:16"
+      }
+    ]
+  }
+]
