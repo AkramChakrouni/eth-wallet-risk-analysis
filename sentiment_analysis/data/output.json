@@ -1,0 +1,121 @@
+[
+  {
+    "asset_name": "LINK",
+    "risk_level": "MEDIUM",
+    "reason": "Mixed signals with positive integration news and successful staking V2 launch, offset by concerns over centralization, smart contract failures in low-liquidity markets, and potential price volatility from weekly gains.",
+    "source": [
+      "https://coindesk.com/chainlink-swift-integration",
+      "https://twitter.com/decentralcritic/status/1681234567",
+      "https://defiant.io/chainlink-feed-outages",
+      "https://cryptobriefing.com/link-price-surges-on-integration/"
+    ],
+    "priority": 6
+  },
+  {
+    "asset_name": "ETH",
+    "risk_level": "HIGH",
+    "reason": "High risk due to massive sell-off by early whales ahead of ETF ruling, gas fee spikes causing network congestion, and despite positive long-term scaling developments and Layer 2 adoption milestones.",
+    "source": [
+      "https://nansen.ai/research/eth-whale-tracking-2025",
+      "https://reddit.com/r/ethtrader/comments/airdrop_gas_spike/",
+      "https://ethereum.org/en/news/dencun-schedule"
+    ],
+    "priority": 8
+  },
+  {
+    "asset_name": "USDT",
+    "risk_level": "MEDIUM",
+    "reason": "Reserve quality concerns and auditor inconsistencies raise caution, yet USDT maintains stability in deep liquidity pools and expands as a cross-border tool, indicating mixed market trust.",
+    "source": [
+      "https://cryptoslate.com/tether-tron-printing/",
+      "https://twitter.com/onchain_audit/status/1698754302",
+      "https://cointelegraph.com/news/usdt-liquidity-dex",
+      "https://finextra.com/news/usdt-crossborder-expansion"
+    ],
+    "priority": 7
+  },
+  {
+    "asset_name": "BTC",
+    "risk_level": "MEDIUM",
+    "reason": "Potential dump from whale movement to Binance and ETF approval uncertainty are balanced by hash rate all-time highs, institutional interest, and El Salvador's continued purchases.",
+    "source": [
+      "https://whalealert.io/tx/bitcoin",
+      "https://bloomberg.com/etf/bitcoin-approval-rumors",
+      "https://bitcoinmagazine.com/tech/hashrate-china-returns",
+      "https://gov.sv/news/bitcoin-treasury-report"
+    ],
+    "priority": 5
+  },
+  {
+    "asset_name": "SOL",
+    "risk_level": "HIGH",
+    "reason": "Recent network outage and FTX estate SOL liquidation pose immediate risks, though NFT volume records and resumed stablecoin support offer some positive counterbalance.",
+    "source": [
+      "https://solanastatus.com/history/2025-05",
+      "https://decrypt.co/news/ftx-sol-liquidation-end",
+      "https://magiceden.io/blog/solana-nft-records",
+      "https://circle.com/solana-stablecoin-statement"
+    ],
+    "priority": 9
+  },
+  {
+    "asset_name": "ARB",
+    "risk_level": "HIGH",
+    "reason": "Sudden price drop triggering liquidations, upcoming token unlock adding sell pressure, and despite strong ecosystem growth and developer grants, indicating volatile market conditions.",
+    "source": [
+      "https://defillama.com/news/arbitrum-liquidations",
+      "https://tokenunlocks.com/arbitrum",
+      "https://forum.arbitrum.foundation/grants-allocation",
+      "https://l2beat.com/scaling/arbitrum"
+    ],
+    "priority": 9
+  },
+  {
+    "asset_name": "MKR",
+    "risk_level": "MEDIUM",
+    "reason": "Governance centralization concerns and brief DAI depeg are mitigated by token buybacks, whale accumulation, and successful yield generation from RWAs.",
+    "source": [
+      "https://twitter.com/makerwatchdog/status/1609847311",
+      "https://defillama.com/news/dai-depeg-may",
+      "https://cryptoquant.com/whale-mkr-activity",
+      "https://realworldassets.makerdao.com/reports"
+    ],
+    "priority": 6
+  },
+  {
+    "asset_name": "AVAX",
+    "risk_level": "LOW",
+    "reason": "Positive ecosystem growth with new messaging layer, TVL increase, and gaming boom, slightly tempered by validator concerns over hardware requirements and whale token shifts.",
+    "source": [
+      "https://avax.network/blog/awm-launch",
+      "https://defillama.com/chain/avalanche",
+      "https://avax.games/blog/shrapnel-playtest",
+      "https://twitter.com/avax_validators/status/1698434523"
+    ],
+    "priority": 3
+  },
+  {
+    "asset_name": "OP",
+    "risk_level": "MEDIUM",
+    "reason": "Token price drop post-unlock and governance concentration concerns are balanced by Superchain expansion, increased bridging activity, and new dev tool launches.",
+    "source": [
+      "https://tokenunlocks.com/optimism",
+      "https://twitter.com/l2observer/status/1689270012",
+      "https://optimism.io/blog/superchain-growth",
+      "https://l2beat.com/bridging"
+    ],
+    "priority": 6
+  },
+  {
+    "asset_name": "AAVE",
+    "risk_level": "MEDIUM",
+    "reason": "Systemic risk from large liquidations and GHO peg volatility, somewhat offset by V4 upgrade improvements, governance activity, and proposed RWA integration for diversification.",
+    "source": [
+      "https://defillama.com/news/aave-liquidation-fears",
+      "https://cryptobriefing.com/gho-peg-instability/",
+      "https://aave.com/blog/aave-v4-preview",
+      "https://aavenomics.com/real-world-assets-in-aave/"
+    ],
+    "priority": 7
+  }
+]

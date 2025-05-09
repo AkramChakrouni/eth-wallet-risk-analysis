@@ -1,0 +1,253 @@
+[
+    {
+      "asset_name": "LINK",
+      "texts": [
+        {
+          "text": "Chainlink’s partnership with SWIFT could revolutionize blockchain-based financial messaging.",
+          "source": "https://coindesk.com/chainlink-swift-integration"
+        },
+        {
+          "text": "Concerns raised about centralization in oracle node operators for Chainlink.",
+          "source": "https://twitter.com/decentralcritic/status/1681234567"
+        },
+        {
+          "text": "Chainlink staking V2 successfully launched, receiving positive community feedback.",
+          "source": "https://blog.chain.link/staking-v2-launch/"
+        },
+        {
+          "text": "Smart contracts using Chainlink feeds are failing in certain low-liquidity markets.",
+          "source": "https://defiant.io/chainlink-feed-outages"
+        },
+        {
+          "text": "LINK token sees 18% weekly gain amid integration news with major DEX.",
+          "source": "https://cryptobriefing.com/link-price-surges-on-integration/"
+        }
+      ]
+    },
+    {
+      "asset_name": "ETH",
+      "texts": [
+        {
+          "text": "Ethereum developers confirmed Dencun upgrade to roll out in Q3 with EIP-4844 included.",
+          "source": "https://ethereum.org/en/news/dencun-schedule"
+        },
+        {
+          "text": "Gas fees spike to 200+ Gwei during airdrop frenzy, leading to network congestion.",
+          "source": "https://reddit.com/r/ethtrader/comments/airdrop_gas_spike/"
+        },
+        {
+          "text": "Vitalik emphasizes ZK-Rollups and account abstraction as Ethereum’s scaling path.",
+          "source": "https://vitalik.eth.limo/general/2025/04/09/zkfuture.html"
+        },
+        {
+          "text": "Massive sell-off of ETH by early whales observed ahead of ETF ruling.",
+          "source": "https://nansen.ai/research/eth-whale-tracking-2025"
+        },
+        {
+          "text": "Layer 2 adoption surpasses mainnet volume for the first time.",
+          "source": "https://l2beat.com/metrics"
+        }
+      ]
+    },
+    {
+      "asset_name": "USDT",
+      "texts": [
+        {
+          "text": "Tether prints $1B more USDT on Tron, triggering speculation about reserve quality.",
+          "source": "https://cryptoslate.com/tether-tron-printing/"
+        },
+        {
+          "text": "CEO of Tether claims full backing by US treasury bills and commercial paper.",
+          "source": "https://tether.to/en/blog/full-reserve-backing/"
+        },
+        {
+          "text": "USDT remains stable in deep liquidity pools, showing market trust despite skepticism.",
+          "source": "https://cointelegraph.com/news/usdt-liquidity-dex"
+        },
+        {
+          "text": "Auditors find inconsistencies in some of Tether’s past reserve attestations.",
+          "source": "https://twitter.com/onchain_audit/status/1698754302"
+        },
+        {
+          "text": "USDT is now accepted in over 20 countries as cross-border payment tool.",
+          "source": "https://finextra.com/news/usdt-crossborder-expansion"
+        }
+      ]
+    },
+    {
+      "asset_name": "BTC",
+      "texts": [
+        {
+          "text": "Bitcoin hash rate hits new all-time high after China miners rejoin network.",
+          "source": "https://bitcoinmagazine.com/tech/hashrate-china-returns"
+        },
+        {
+          "text": "BTC ETF approval expected this quarter, driving institutional inflows.",
+          "source": "https://bloomberg.com/etf/bitcoin-approval-rumors"
+        },
+        {
+          "text": "Bitcoin dominance drops to 38% as altcoins outperform post-halving.",
+          "source": "https://coingecko.com/en/market-cap-dominance"
+        },
+        {
+          "text": "Whale moves 15,000 BTC to Binance; community expects dump.",
+          "source": "https://whalealert.io/tx/bitcoin"
+        },
+        {
+          "text": "El Salvador continues monthly BTC purchases, now holds over 10,000 coins.",
+          "source": "https://gov.sv/news/bitcoin-treasury-report"
+        }
+      ]
+    },
+    {
+      "asset_name": "SOL",
+      "texts": [
+        {
+          "text": "Solana network faced a 4-hour outage due to validator desyncing.",
+          "source": "https://solanastatus.com/history/2025-05"
+        },
+        {
+          "text": "Despite outage, Solana NFT volume surpasses Ethereum in 24h window.",
+          "source": "https://magiceden.io/blog/solana-nft-records"
+        },
+        {
+          "text": "Jito and Helius validators push for next-gen MEV-resistant consensus.",
+          "source": "https://twitter.com/helius/status/1739201812"
+        },
+        {
+          "text": "FTX estate sells remaining SOL, concludes bankruptcy asset liquidation.",
+          "source": "https://decrypt.co/news/ftx-sol-liquidation-end"
+        },
+        {
+          "text": "USDC and USDT on Solana resume after Circle reaffirms support.",
+          "source": "https://circle.com/solana-stablecoin-statement"
+        }
+      ]
+    },
+    {
+      "asset_name": "ARB",
+      "texts": [
+        {
+          "text": "Arbitrum DAO votes to allocate $215M in grants to ecosystem devs.",
+          "source": "https://forum.arbitrum.foundation/grants-allocation"
+        },
+        {
+          "text": "Sudden drop in ARB price triggers liquidation cascade on Aave.",
+          "source": "https://defillama.com/news/arbitrum-liquidations"
+        },
+        {
+          "text": "TVL on Arbitrum crosses $12B amid GameFi and DeFi explosion.",
+          "source": "https://l2beat.com/scaling/arbitrum"
+        },
+        {
+          "text": "ARB token unlock adds 300M new tokens to supply, stirs sell pressure.",
+          "source": "https://tokenunlocks.com/arbitrum"
+        },
+        {
+          "text": "Reddit devs launch social login dApp on Arbitrum, gaining traction.",
+          "source": "https://twitter.com/reddit_labs/status/1751234567"
+        }
+      ]
+    },
+    {
+      "asset_name": "MKR",
+      "texts": [
+        {
+          "text": "MakerDAO rolls out SubDAO structure and tokenomics overhaul.",
+          "source": "https://makerdao.com/en/blog/subdao-roadmap"
+        },
+        {
+          "text": "MKR spikes 28% on whale accumulation and token buybacks.",
+          "source": "https://cryptoquant.com/whale-mkr-activity"
+        },
+        {
+          "text": "Concern grows around centralization of governance votes.",
+          "source": "https://twitter.com/makerwatchdog/status/1609847311"
+        },
+        {
+          "text": "Maker’s RWAs generate over $2M in monthly yield.",
+          "source": "https://realworldassets.makerdao.com/reports"
+        },
+        {
+          "text": "DAI briefly depegs to $0.97 after curve pool imbalance.",
+          "source": "https://defillama.com/news/dai-depeg-may"
+        }
+      ]
+    },
+    {
+      "asset_name": "AVAX",
+      "texts": [
+        {
+          "text": "Avalanche’s Avalanche Warp Messaging launches cross-chain messaging layer.",
+          "source": "https://avax.network/blog/awm-launch"
+        },
+        {
+          "text": "TVL on Avalanche ecosystem up 18% over past 30 days.",
+          "source": "https://defillama.com/chain/avalanche"
+        },
+        {
+          "text": "Gaming on AVAX booms as Shrapnel beta gains traction.",
+          "source": "https://avax.games/blog/shrapnel-playtest"
+        },
+        {
+          "text": "AVAX whales shift $20M to exchanges after token unlock.",
+          "source": "https://whalealert.io"
+        },
+        {
+          "text": "Validators raise concerns over rising hardware requirements.",
+          "source": "https://twitter.com/avax_validators/status/1698434523"
+        }
+      ]
+    },
+    {
+      "asset_name": "OP",
+      "texts": [
+        {
+          "text": "Optimism’s Superchain vision expands with three new L2 integrations.",
+          "source": "https://optimism.io/blog/superchain-growth"
+        },
+        {
+          "text": "OP token sees 12% drop after scheduled unlock of 100M tokens.",
+          "source": "https://tokenunlocks.com/optimism"
+        },
+        {
+          "text": "New dev toolchain launched by OP Labs to simplify L2 onboarding.",
+          "source": "https://oplabs.gitbook.io/docs"
+        },
+        {
+          "text": "ETH bridging to Optimism increases 3x week-over-week.",
+          "source": "https://l2beat.com/bridging"
+        },
+        {
+          "text": "Critics argue governance is dominated by a few multisigs.",
+          "source": "https://twitter.com/l2observer/status/1689270012"
+        }
+      ]
+    },
+    {
+      "asset_name": "AAVE",
+      "texts": [
+        {
+          "text": "Aave V4 upgrade includes isolated lending markets and GHO stability tweaks.",
+          "source": "https://aave.com/blog/aave-v4-preview"
+        },
+        {
+          "text": "Large liquidation of ARB collateral on Aave raises systemic risk questions.",
+          "source": "https://defillama.com/news/aave-liquidation-fears"
+        },
+        {
+          "text": "Aave governance passes vote to increase ETH collateral ratio.",
+          "source": "https://gov.aave.com/t/proposal-eth-collateral"
+        },
+        {
+          "text": "GHO stablecoin peg volatility causes ripple effects in Curve pools.",
+          "source": "https://cryptobriefing.com/gho-peg-instability/"
+        },
+        {
+          "text": "Aave Labs proposes RWA module to integrate tokenized treasuries.",
+          "source": "https://aavenomics.com/real-world-assets-in-aave/"
+        }
+      ]
+    }
+  ]
+  
