@@ -1,0 +1,65 @@
+{
+    "user_profiles": [
+      {
+        "person_name": "Akram El-Masri",
+        "budget": "medium",
+        "dietary_tags": ["halal", "low-carb"],
+        "allergies": ["shellfish", "peanuts"],
+        "preferred_cuisines": ["Middle Eastern", "Japanese", "Mediterranean"],
+        "disliked_cuisines": ["Mexican", "Fast Food"],
+        "preferred_meal_times": ["lunch", "dinner"],
+        "frequent_dining_days": ["Friday", "Saturday", "Sunday"],
+        "mobility_constraints": false,
+        "ambience_preference": ["quiet", "casual", "family-friendly"]
+      },
+      {
+        "person_name": "Layla Hassan",
+        "budget": "medium",
+        "dietary_tags": ["vegetarian", "gluten-free"],
+        "allergies": ["none"],
+        "preferred_cuisines": ["Indian", "Mediterranean"],
+        "disliked_cuisines": ["Chinese", "Korean"],
+        "preferred_meal_times": ["dinner"],
+        "frequent_dining_days": ["Saturday", "Sunday"],
+        "mobility_constraints": false,
+        "ambience_preference": ["family-friendly", "casual"]
+      },
+      {
+        "person_name": "Tarek Amin",
+        "budget": "low",
+        "dietary_tags": ["vegan"],
+        "allergies": ["dairy"],
+        "preferred_cuisines": ["Indian", "Thai"],
+        "disliked_cuisines": ["Japanese", "Seafood"],
+        "preferred_meal_times": ["lunch"],
+        "frequent_dining_days": ["Friday"],
+        "mobility_constraints": true,
+        "ambience_preference": ["casual"]
+      },
+      {
+        "person_name": "Sara Nabil",
+        "budget": "high",
+        "dietary_tags": ["gluten-free", "halal"],
+        "allergies": ["nuts", "soy"],
+        "preferred_cuisines": ["French", "Japanese", "Italian"],
+        "disliked_cuisines": ["Indian"],
+        "preferred_meal_times": ["dinner"],
+        "frequent_dining_days": ["Saturday"],
+        "mobility_constraints": false,
+        "ambience_preference": ["romantic", "quiet"]
+      },
+      {
+        "person_name": "Omar Khaled",
+        "budget": "medium",
+        "dietary_tags": ["pescatarian"],
+        "allergies": ["gluten"],
+        "preferred_cuisines": ["Mediterranean", "Seafood"],
+        "disliked_cuisines": ["BBQ", "Fried Food"],
+        "preferred_meal_times": ["dinner"],
+        "frequent_dining_days": ["Friday", "Saturday"],
+        "mobility_constraints": false,
+        "ambience_preference": ["outdoor", "quiet"]
+      }
+    ]
+  }
+  
