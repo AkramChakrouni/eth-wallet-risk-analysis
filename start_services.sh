@@ -1,25 +1,30 @@
 #!/usr/bin/env bash
 set -e
 
-# 1) Activate your virtualenv (adjust path if needed)
+# Activate your virtualenv
 source .venv/bin/activate
 
-# 2) Sapphire module (wallet → tokens) on port 8000
+# 1) Assets Fetch module (wallet → tokens) on port 8000
 python -m uvicorn main:app \
     --app-dir assets_fetch_module \
     --port 8000 --reload &
 
-# 3) Sentiment module (tokens → sentiment) on port 8001
+# 2) Sentiment module (tokens → sentiment) on port 8001
 python -m uvicorn main:app \
     --app-dir sentiment_module \
     --port 8001 --reload &
 
-# 4) Gateway (wallet → sentiment) on port 8003
+# 3) Notification module (sentiment → notifications) on port 8002
+python -m uvicorn main:app \
+    --app-dir notification_module \
+    --port 8002 --reload &
+
+# 4) Gateway (wallet → end-to-end) on port 8003
 python -m uvicorn main:app \
     --app-dir gateway \
     --port 8003 --reload &
 
-# 5) Wait so Ctrl+C tears down all three
+# Keep the script alive so Ctrl+C tears down all four services
 wait
 
 # TODO:
