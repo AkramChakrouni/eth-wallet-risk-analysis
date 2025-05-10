@@ -6,7 +6,7 @@ source .venv/bin/activate
 
 # 2) Sapphire module (wallet → tokens) on port 8000
 python -m uvicorn main:app \
-    --app-dir sapphire_module \
+    --app-dir assets_fetch_module \
     --port 8000 --reload &
 
 # 3) Sentiment module (tokens → sentiment) on port 8001

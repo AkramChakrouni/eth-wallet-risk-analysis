@@ -1,5 +1,3 @@
-# sentiment_analysis/main.py
-
 from fastapi import FastAPI, Request, HTTPException
 from src.crypto_panic_scraper import fetch_news_for_symbols
 from src.model_inference      import run_sentiment_inference
