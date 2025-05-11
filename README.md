@@ -78,8 +78,3 @@ Follow the instructions in the frontend repository to connect it to your running
 The gateway service exposes two main endpoints:
 - `POST /analyze`: Takes an Ethereum address and returns a complete risk analysis
 - `GET /notifications`: Retrieves the latest notifications and alerts
-
-## Acknowledgments
-- Covalent API for blockchain data
-- CryptoPanic for crypto news aggregation
-- NVIDIA AI for sentiment analysis
