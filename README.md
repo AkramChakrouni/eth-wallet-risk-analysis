@@ -3,7 +3,7 @@
 ## Overview
 OnyxGuard is a comprehensive risk analysis system for Ethereum wallets that monitors your crypto assets and provides real-time sentiment analysis and risk assessment. The system analyzes social sentiment, market data, and emerging trends to help you make informed decisions about your crypto portfolio.
 
-![OnyxGuard](/Users/akramchakrouni/eth-wallet-risk-analysis/logo.png)
+![OnyxGuard](logo.png)
 
 ## Features
 - **Asset Discovery**: Automatically detects tokens in your Ethereum wallet
